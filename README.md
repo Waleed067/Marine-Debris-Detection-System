@@ -22,19 +22,6 @@ Marine pollution poses a significant threat to ocean ecosystems worldwide. AquaV
 - *User Authentication*: Secure login and registration system
 - *High Accuracy*: Trained on comprehensive underwater dataset
 
-## 👥 Team Roles
-
-| # | Name | Roll Number |
-|---|------|-------------|
-| 1 | Abdul Waleed | 160922748067 |
-| 2 | MD Sahil Khan | 160922748093 |
-| 3 | MD Fardeen Ismail Khan | 160922748085 |
-| 4 | Mohammed Abdul Akbar Khan Noman | 160922748098 |
-
-*Project Guide:* Mrs. Raheela Tabassum, Assistant Professor
-*Co-Guide / HoD:* Dr. Abdul Rasool MD, Associate Professor & Head of Department, CSE (AIML)
-*Institution:* Lords Institute of Engineering and Technology, Hyderabad
-
 ## 🏗️ Architecture
 
 
@@ -240,14 +227,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - *Framework*: Ultralytics YOLO for object detection
 - *Community*: Open-source computer vision community
 
-## 📞 Contact
-
-For questions, suggestions, or collaborations:
-
-- *Project Lead*: [Your Name]
-- *Email*: [your.email@example.com]
-- *GitHub*: [your-github-username]
-- *LinkedIn*: [your-linkedin-profile]
 
 ## 🔄 Future Enhancements
 
